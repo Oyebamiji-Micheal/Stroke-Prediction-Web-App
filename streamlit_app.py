@@ -27,7 +27,7 @@ st.write("""
 **Made by Oyebamiji Micheal**
 """)
 
-predict_stroke_status = st.button("Predict Employee Promotion")
+predict_stroke_status = st.button("Predict Stroke Likelihood")
 
 st.sidebar.header("User Input Features")
 
